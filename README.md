@@ -7,24 +7,26 @@ I have a strong background in developing innovative [![Machine Learning](https:/
 
 I’m looking to collaborate on projects related to the Artificial Intelligence or contribute to the performance improvement of existing applications. My commitment to continuous learning and my ability to adapt to new technologies make me a versatile and valuable contributor to any project.
 
-My Pronouns: He/Him
 
-## Socials
+
+## 🌐 Socials
 
 <div align="left">
+  <a href="mailto:pratap.aditya2712@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pratap.aditya2712@gmail.com-red?style=for-the-badge&logo=gmail" height="30" />
+  </a><br>
   <a href="https://github.com/pratapaadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pratapaadi-181717?style=for-the-badge&logo=github" height="30" />
   </a><br>
   <a href="http://www.linkedin.com/in/aditya-pratap-singh-6a35aa22b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="30" />
-  </a><br>
-  <a href="mailto:pratap.aditya2712@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-pratap.aditya2712@gmail.com-red?style=for-the-badge&logo=gmail" height="30" />
   </a>
 </div>
 
 
 Here's a glimpse of my work and skills.
+
+
 ## 🚀 Projects
 
 ### [Diamond Price Predictor](https://github.com/pratapaadi/DiamondPriceML)
