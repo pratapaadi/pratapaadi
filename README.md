@@ -55,7 +55,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 
 ## 📈 GitHub Stats
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapaadi&show_icons=true&theme=radical)
-![Aditya's GitHub Streak](https://github-readme)
+
+## 📊 Tools Distribution
+![Tools Distribution Pie Chart](tools_distribution_pie_chart.png)
 
 
 
