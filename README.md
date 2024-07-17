@@ -11,13 +11,13 @@ My Pronouns: He/Him
 
 ## Socials
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/pratapaadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pratapaadi-181717?style=for-the-badge&logo=github" height="30" />
-  </a>
+  </a><br>
   <a href="http://www.linkedin.com/in/aditya-pratap-singh-6a35aa22b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" height="30" />
-  </a>
+  </a><br>
   <a href="mailto:pratap.aditya2712@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-pratap.aditya2712@gmail.com-red?style=for-the-badge&logo=gmail" height="30" />
   </a>
