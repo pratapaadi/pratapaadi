@@ -51,14 +51,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 
 ## 📜 Certifications
 - **IBM Skill Build Certification: Artificial Intelligence Fundamentals** (July 2024)
-  - Secured a score of 80% in the final assessment, demonstrating knowledge of AI concepts like Computer Vision and NLP along with a basic understanding of LLMs. [Certificate](https://www.credly.com/badges/13ba0470-eaa8-44f3-abea-76d385f25381/public_url)
-
-## 📊 Tools Distribution
-![Tools Distribution Pie Chart](tools_distribution_pie_chart.png)
+  - Secured a score of 80% in the final assessment, demonstrating knowledge of AI concepts like Computer Vision and NLP along with a basic understanding of LLMs. [Certificate](https://www.credly.com/badges/13ba0470-eaa8-44f3-abea-76d385f25381/public_url
 
 ## 📈 GitHub Stats
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapaadi&show_icons=true&theme=radical)
-![Aditya's GitHub Streak](https://github-readme
+![Aditya's GitHub Streak](https://github-readme)
 
 
 
