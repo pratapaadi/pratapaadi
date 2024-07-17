@@ -1,5 +1,13 @@
 # Hi there, I'm Aditya Pratap Singh 👋(@pratapaadi)
 
+Welcome to my GitHub profile! 
+I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh. 
+
+I have a strong background in developing innovative [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)](https://github.com/pratapaadi) and  [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)](https://github.com/pratapaadi) models, currently learning more about [![GenAI](https://img.shields.io/badge/-GenAI-green)](https://github.com/pratapaadi).
+
+I’m looking to collaborate on projects related to the Artificial Intelligence or contribute to the performance improvement of existing applications. My commitment to continuous learning and my ability to adapt to new technologies make me a versatile and valuable contributor to any project.
+My Pronouns: He/Him
+
 <div align="center">
   <a href="https://github.com/pratapaadi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pratapaadi-181717?style=for-the-badge&logo=github" height="30" />
@@ -11,18 +19,6 @@
     <img src="https://img.shields.io/badge/Email-pratap.aditya2712@gmail.com-red?style=for-the-badge&logo=gmail" height="30" />
   </a>
 </div>
-
-
-
-
-
-Welcome to my GitHub profile! 
-I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh. 
-
-I have a strong background in developing innovative [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)](https://github.com/pratapaadi) and  [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)](https://github.com/pratapaadi) models, currently learning more about [![GenAI](https://img.shields.io/badge/-GenAI-green)](https://github.com/pratapaadi).
-
-I’m looking to collaborate on projects related to the Artificial Intelligence or contribute to the performance improvement of existing applications. My commitment to continuous learning and my ability to adapt to new technologies make me a versatile and valuable contributor to any project.
-My Pronouns: He/Him
 
 
 Here's a glimpse of my work and skills.
