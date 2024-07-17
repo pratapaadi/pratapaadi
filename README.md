@@ -1,4 +1,3 @@
-
 # Hi there, I'm Aditya Pratap Singh 👋
 
 <div align="center">
@@ -33,18 +32,34 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 ## 🛠️ Skills
 
 ### Programming Languages
-- **C/C++**
-- **Python**
+<div align="left">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+</div>
 
 ### Libraries and Tools
-- **SciPy**, **Seaborn**, **Numpy**, **Matplotlib**, **OpenCV**, **Streamlit**, **Git**
+<div align="left">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25" />
+</div>
 
 ### Frameworks
-- **TensorFlow**, **PyTorch**, **Flask**
+<div align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25" />
+</div>
 
 ### Databases and Query Languages
-- **SQL**
-- **MongoDB**
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" />
+</div>
 
 ## 📚 Related Coursework
 - **Data Structures**
@@ -71,9 +86,3 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 </div>
 
 Feel free to explore my repositories and connect with me on [LinkedIn](http://www.linkedin.com/in/aditya-pratap-singh-6a35aa22b). Let's build something amazing together!
-
-
-
-
-
-
