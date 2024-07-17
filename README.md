@@ -14,6 +14,7 @@
 
 
 
+
 Welcome to my GitHub profile! 
 I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh. 
 
@@ -39,7 +40,7 @@ Here's a glimpse of my work and skills.
 - **Features**: Intuitive web interface for uploading images and viewing extracted information.
 - **Technologies Used**: Python, Streamlit, Google Generative AI 
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
 <div align="left">
