@@ -16,7 +16,9 @@
 
 Welcome to my GitHub profile! 
 I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh. 
-I have a strong background in developing innovative[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)](https://github.com/pratapaadi) and [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)](https://github.com/pratapaadi) models, currently learning more about [![GenAI](https://img.shields.io/badge/-GenAI-green)](https://github.com/pratapaadi).
+
+I have a strong background in developing innovative [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)](https://github.com/pratapaadi) and  [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)](https://github.com/pratapaadi) models, currently learning more about [![GenAI](https://img.shields.io/badge/-GenAI-green)](https://github.com/pratapaadi).
+
 I’m looking to collaborate on projects related to the Artificial Intelligence or contribute to the performance improvement of existing applications. My commitment to continuous learning and my ability to adapt to new technologies make me a versatile and valuable contributor to any project.
 My Pronouns: He/Him
 
