@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Pratap Singh 👋
+# Hi there, I'm Aditya Pratap Singh 👋(@pratapaadi)
 
 <div align="center">
   <a href="https://github.com/pratapaadi" target="_blank">
@@ -12,8 +12,16 @@
   </a>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College (AKTU), Ghaziabad, Uttar Pradesh. I have a strong background in developing innovative machine learning models and web applications. Here's a glimpse of my work and skills.
 
+
+Welcome to my GitHub profile! 
+I'm a passionate Computer Science student at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh. 
+I have a strong background in developing innovative[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)](https://github.com/pratapaadi) and [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)](https://github.com/pratapaadi) models, currently learning more about [![GenAI](https://img.shields.io/badge/-GenAI-green)](https://github.com/pratapaadi).
+I’m looking to collaborate on projects related to the Artificial Intelligence or contribute to the performance improvement of existing applications. My commitment to continuous learning and my ability to adapt to new technologies make me a versatile and valuable contributor to any project.
+My Pronouns: He/Him
+
+
+Here's a glimpse of my work and skills.
 ## 🚀 Projects
 
 ### [Diamond Price Predictor](https://github.com/pratapaadi/DiamondPriceML)
@@ -27,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 ### [Smart Invoice Extractor](https://github.com/pratapaadi/Smart_Invoice_Extractor/tree/master)
 - **Description**: Utilizes the Gemini Pro Vision Open API to extract information from invoices in multiple languages.
 - **Features**: Intuitive web interface for uploading images and viewing extracted information.
-- **Technologies Used**: Python, OpenCV, Streamlit, Flask
+- **Technologies Used**: Python, Streamlit, Google Generative AI 
 
 ## 🛠️ Skills
 
@@ -76,13 +84,17 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at Ajay 
 - **IBM Skill Build Certification: Artificial Intelligence Fundamentals** (July 2024)
   - Secured a score of 80% in the final assessment, demonstrating knowledge of AI concepts like Computer Vision and NLP along with a basic understanding of LLMs. [Certificate](https://www.credly.com/badges/13ba0470-eaa8-44f3-abea-76d385f25381/public_url)
 
-## 📊 Tools Distribution
-![Tools Distribution Pie Chart](tools_distribution_pie_chart.png)
+
 
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratapaadi&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapaadi&theme=radical" alt="Aditya's GitHub Streak" height="150" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pratapaadi&theme=onedark" alt="GitHub Trophies" />
 </div>
 
 Feel free to explore my repositories and connect with me on [LinkedIn](http://www.linkedin.com/in/aditya-pratap-singh-6a35aa22b). Let's build something amazing together!
