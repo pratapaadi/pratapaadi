@@ -31,7 +31,7 @@ Here's a glimpse of my work and skills.
 
 ### [Diamond Price Predictor](https://github.com/pratapaadi/DiamondPriceML)
 - **Description**: Engineered a machine learning model using Ridge regression to predict diamond prices.
-- **Achievements**: 
+- **Performance Matrix**: 
   - R2 Score: 93.69%
   - RMSE: 1013.91
   - MAE: 674.06
