@@ -35,12 +35,12 @@ Here's a glimpse of my work and skills.
   - R2 Score: 93.69%
   - RMSE: 1013.91
   - MAE: 674.06
-- **Technologies Used**: Python, SciPy, Seaborn, Numpy, Matplotlib
+- **Technologies Used**: Python, Scikit-learn, Seaborn, Numpy, Matplotlib
 
 ### [Smart Invoice Extractor](https://github.com/pratapaadi/Smart_Invoice_Extractor/tree/master)
 - **Description**: Utilizes the Gemini Pro Vision Open API to extract information from invoices in multiple languages.
 - **Features**: Intuitive web interface for uploading images and viewing extracted information.
-- **Technologies Used**: Python, Streamlit, Google Generative AI 
+- **Technologies Used**: Python, Streamlit, PyPDF, Google Generative AI
 
 ## 🛠️ Tech Stack
 
@@ -56,15 +56,12 @@ Here's a glimpse of my work and skills.
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 </div>
 
-### Frameworks
+### Microservices Framework
 <div align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" />
 </div>
 
@@ -77,9 +74,11 @@ Here's a glimpse of my work and skills.
 ## 📚 Related Coursework
 - **Data Structures**
 - **Algorithms**
+- **DBMS**
+- **Operating Systems**
 - **Computer Networks**
-- **Data Analytics**
 - **Object-Oriented Programming (OOPs)**
+- **Data Analytics**
 
 ## 🌟 Achievements
 - **HackOverflow**: Secured 17th place out of 250 teams in a hackathon organized by IIT-Jodhpur. [Certificate](https://drive.google.com/file/d/1-kQ1u9b2Li2XDexfPlVhJcnsEomB_w_j/view?usp=sharing)
@@ -88,6 +87,9 @@ Here's a glimpse of my work and skills.
 ## 📜 Certifications
 - **IBM Skill Build Certification: Artificial Intelligence Fundamentals** (July 2024)
   - Secured a score of 80% in the final assessment, demonstrating knowledge of AI concepts like Computer Vision and NLP along with a basic understanding of LLMs. [Certificate](https://www.credly.com/badges/13ba0470-eaa8-44f3-abea-76d385f25381/public_url)
+- **Oracle University: OCI Generative AI Professional** (July 2024)
+  - Achieved a comprehensive score of 87.5% in Proctored examination validating my proficiency in Large Language models, Vector Databases and RAG Models.
+[Certificate](https://drive.google.com/file/d/15wyDKRmNg4pSLRnA9KZKaHBwM9trHhGT/view?usp=sharing)
 
 
 
