@@ -78,7 +78,6 @@ Here's a glimpse of my work and skills.
 - **Operating Systems**
 - **Computer Networks**
 - **Object-Oriented Programming (OOPs)**
-- **Data Analytics**
 
 ## 🌟 Achievements
 - **HackOverflow**: Secured 17th place out of 250 teams in a hackathon organized by IIT-Jodhpur. [Certificate](https://drive.google.com/file/d/1-kQ1u9b2Li2XDexfPlVhJcnsEomB_w_j/view?usp=sharing)
